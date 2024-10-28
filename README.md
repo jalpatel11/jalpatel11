@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi there, I’m Jal! 👋</h1>
 
-<!--
-**jalpatel11/jalpatel11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Science & Engineering Student**, **Research Enthusiast**, and **Creative Learner** 🎓.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 About Me
+- Currently pursuing my Master's in Data Science, Analytics & Engineering at Arizona State University.
+- Experienced in **machine learning**, **web development**, and **data analytics**.
+- Past internships in **Web Development**.
+
+### 🌱 I’m Currently Learning
+- Deep Learning and NLP
+- Graph Databases (Neo4j)
+- Advanced Data Visualization Techniques
+
+### 💻 Technical Skills
+#### Languages & Frameworks
+- Python, Java, C/C++, SQL, HTML/CSS
+- TensorFlow, PyTorch, Scikit-learn
+
+#### Tools & Platforms
+- Neo4j, Jupyter Notebooks, Git, Tableau, ArcGIS Pro
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/jalpatel11) | [GitHub](https://github.com/jalpatel11)
+
+For questions and feedback, feel free to reach out!
