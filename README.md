@@ -1,4 +1,9 @@
 <h1 align="center">Hi there, I’m Jal! 👋</h1>
+<p align="center">
+<img src="https://www.canva.com/design/DAGg-xcCHos/kx24Qyxn84A6TCG3Qhm4SQ/watch">
+</p>
+
+
 
 I'm a **Data Science & Engineering Student**, **Research Enthusiast**, and **Creative Learner** 🎓.
 
