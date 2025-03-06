@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, I’m Jal! 👋</h1>
 <p align="center">
 <img src="https://github.com/jalpatel11/jalpatel11/blob/c74e1520abcd61861410ccb90833d925ff245c0c/hii.gif">
 </p>
