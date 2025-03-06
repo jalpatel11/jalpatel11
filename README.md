@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I’m Jal! 👋</h1>
 <p align="center">
-<img src="https://github.com/jalpatel11/jalpatel11/blob/184d3e65f27819de859d2a2778ad16edb591e585/%F0%9F%91%8B%20Hii%20there%2C%20(1).gif">
+<img src="https://github.com/jalpatel11/jalpatel11/blob/c74e1520abcd61861410ccb90833d925ff245c0c/hii.gif">
 </p>
 
 
