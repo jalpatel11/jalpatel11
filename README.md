@@ -32,7 +32,7 @@ I'm a **Data Science & Engineering Student**, **Research Enthusiast**, and **Cre
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="36" height="36" alt="TensorFlow" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="36" height="36" alt="Torch" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jalpatel11/jalpatel11/blob/8f780ab7c1c57cdbc299e56353a08da565ad2306/docker-svgrepo-com.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jalpatel11/jalpatel11/blob/8f780ab7c1c57cdbc299e56353a08da565ad2306/dbs-postgresql-svgrepo-com.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jalpatel11/jalpatel11/blob/96b226688192754997e31bda2c91b2e5e754783b/icons8-postgresql.svg" width="36" height="36" alt="Kubernetes" /></a>
 </p>
 
 ## IDEs 🧑‍💻
