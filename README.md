@@ -28,6 +28,13 @@ I'm a **Data Science & Engineering Student**, **Research Enthusiast**, and **Cre
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 </p>
 
+<p align="left">
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="36" height="36" alt="Torch" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jalpatel11/jalpatel11/blob/8f780ab7c1c57cdbc299e56353a08da565ad2306/docker-svgrepo-com.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jalpatel11/jalpatel11/blob/8f780ab7c1c57cdbc299e56353a08da565ad2306/dbs-postgresql-svgrepo-com.svg" width="36" height="36" alt="Kubernetes" /></a>
+</p>
+
 ## IDEs 🧑‍💻
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
