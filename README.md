@@ -7,15 +7,37 @@
 I'm a **Data Science & Engineering Student**, **Research Enthusiast**, and **Creative Learner** 🎓.
 
 
-### 📝 About Me
-- Currently pursuing my Master's in Data Science, Analytics & Engineering at Arizona State University.
-- Experienced in **machine learning**, **web development**, and **data analytics**.
-- Past internships in **Web Development**.
+## 🧠 About Me
 
-### 🌱 I’m Currently Learning
-- Deep Learning and NLP
-- Graph Databases (Neo4j)
-- Advanced Data Visualization Techniques
+- Pursuing an MS in **Data Science, Analytics & Engineering** at **Arizona State University**
+- Experienced in **software development**, **data engineering**, and **machine learning**
+- Proficient with full-stack web development, cloud platforms, and geospatial data processing
+- Passionate about developing scalable ML pipelines and working on interdisciplinary research projects
+
+## 💼 Technical Experience
+
+### 🔧 Software Engineering
+- Developed backend services and web applications using **Python, Flask, and React**
+- Built containerized applications with **Docker**, deployed using **AWS EC2/ECS**
+- Implemented CI/CD pipelines using GitHub Actions and DockerHub
+
+### 📊 Data Science & ML
+- Built ML models using **scikit-learn**, **TensorFlow**, and **PyTorch**
+- Worked on projects involving **image segmentation**, **recommendation systems**, and **optimization**
+- Performed data wrangling and preprocessing with **Pandas**, **NumPy**, and **Spark**
+
+### 🌍 Geospatial Analysis
+- Processed satellite imagery using **rasterio**, **Earth Engine**, and **OpenCV**
+- Created land cover maps with **U-Net**, using Sentinel-2 and Dynamic World datasets
+
+---
+
+## 💡 I’m Currently Exploring
+- Advanced deep learning architectures (ResUNet, FPN)
+- JAX & differentiable programming
+- AI for remote sensing & environmental monitoring
+
+---
 
 ## 💼 Technical Skills
 <p align="left">
