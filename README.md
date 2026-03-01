@@ -2,117 +2,124 @@
   <img src="https://github.com/jalpatel11/jalpatel11/blob/c74e1520abcd61861410ccb90833d925ff245c0c/hii.gif" />
 </p>
 
-I am a graduate student in **Data Science, Analytics and Engineering** at **Arizona State University** with a strong focus on building reliable software systems and applied machine learning solutions.
+<h1 align="center">Hi, I'm Jal Patel 👋</h1>
 
-My work sits at the intersection of **software engineering**, **data engineering**, and **applied ML**, with hands-on experience across full-stack development, cloud deployment, and geospatial analysis.
+<p align="center">
+  <b>Graduate Student @ Arizona State University</b> &nbsp;|&nbsp; <b>Software & ML Engineer</b> &nbsp;|&nbsp; <b>Full-Stack Builder</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jal1102"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/jalpatel11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:jal85524@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ## About Me
 
-- Master’s student in Data Science, Analytics and Engineering at Arizona State University  
-- Former Software Development Engineer Intern at Sentari AI  
-- Background in full-stack development, data pipelines, and applied machine learning  
-- Experience working with production systems, real-world datasets, and research-driven projects  
+I'm a Master's student in **Data Science, Analytics and Engineering** at **Arizona State University** (GPA: 3.74, graduating May 2026), with hands-on experience building production-grade software systems, ML pipelines, and full-stack applications.
 
-I enjoy working on problems that require clean engineering, strong data foundations, and practical use of machine learning at scale.
+My work sits at the intersection of **software engineering**, **applied ML**, and **data engineering**. I care about building things that actually work in production, not just in notebooks.
 
----
-
-## Technical Experience
-
-### Software Engineering
-
-- Built and maintained backend services using Python, Flask, and FastAPI  
-- Developed mobile and web interfaces using React and React Native  
-- Worked with Supabase for authentication, session management, and data workflows  
-- Containerized applications using Docker and deployed on AWS EC2 and ECS  
-- Implemented CI/CD pipelines using GitHub Actions  
-
-### Data Science and Machine Learning
-
-- Developed and evaluated models using scikit-learn, TensorFlow, and PyTorch  
-- Worked on image segmentation, recommendation systems, and applied optimisation problems  
-- Designed data preprocessing and feature engineering pipelines using Pandas, NumPy, and Spark  
-- Built analytics workflows and dashboards to support data-driven decision making  
-
-### Geospatial and Remote Sensing
-
-- Processed satellite imagery using rasterio, OpenCV, and Google Earth Engine  
-- Built land use and land cover segmentation models using U-Net architectures  
-- Worked with Sentinel-2 imagery and Dynamic World datasets for environmental analysis  
+- 🏢 Former **Software Development Engineer Intern @ Sentari AI** (New York)
+- 🔭 Currently focused on **transformer architectures**, **RAG systems**, and **agentic workflows**
+- 🛠️ I've shipped real products across backend, frontend, and ML, not just side projects
+- 📍 Based in Tempe, AZ — open to relocation
 
 ---
 
-## Current Focus Areas
+## Experience Highlights
 
-- Advanced deep learning architectures such as ResUNet and feature pyramid networks  
-- Differentiable programming and JAX  
-- Machine learning applications in remote sensing and environmental monitoring  
+### 🤖 Sentari AI — SDE Intern (Aug 2025 – Jan 2026)
+- Architected transformer-based classification pipelines in **Python & PyTorch** analyzing 100K+ records, improving deep learning model accuracy by **21%**
+- Launched a full-stack **React + FastAPI** threat monitoring dashboard, cutting incident response time by **35%**
+- Engineered embedding models and feature engineering pipelines for high-quality candidate retrieval
+- Secured a full-stack login page with **OAuth2** authentication in **TypeScript & React**, improving token verification speed by **27%**
+
+### 🏗️ Plexusnet Services — SWE Intern (Jan 2024 – May 2024)
+- Built **ETL pipelines** processing 1M+ transactional records using Python and SQL
+- Streamlined distributed deployment pipelines with **Docker & GitHub Actions**, cutting release errors by **30%**
+- Formulated API specifications and architecture diagrams supporting scalability of 5+ core features
+
+### ⚡ Vardhan Insys — SWE Intern (Jun 2023 – Jul 2023)
+- Reduced data retrieval latency by **28%** through aggressive caching strategies
+- Deployed real-time analytics monitoring across **1,000+ concurrent user sessions**
+
+---
+
+## Featured Projects
+
+### 🧠 [Calmindra — LLM-Powered Mental Health Chatbot](https://github.com/jalpatel11)
+> FastAPI · Redis · React Native · MongoDB · RAG · LLM Evaluation
+
+End-to-end RAG-powered chatbot using transformer models, embedding models, and vector databases. Processes thousands of daily queries with **91% classification accuracy** and **sub-500ms latency**, with a built-in LLM evaluation pipeline for continuous quality improvement.
+
+---
+
+### 🗺️ [Land Use Land Cover Segmentation — Central Phoenix](https://github.com/jalpatel11)
+> PyTorch · U-Net · Sentinel-2 · Feature Engineering · Deep Learning
+
+High-performance deep learning segmentation pipeline on satellite imagery. Applied weighted loss functions and feature engineering to raise minority class recall by **14%**, achieving **95.95% accuracy** and **92.79% mean IoU**.
+
+---
+
+### 📚 [Book Recommender — Collaborative Filtering Engine](https://github.com/jalpatel11)
+> Python · Cosine Similarity · Embedding-based Retrieval · Ranking
+
+Candidate retrieval and ranking pipeline using embedding-based collaborative filtering. Improved precision by **15%**, reduced runtime complexity by **22%**, and boosted engagement by **12%**.
 
 ---
 
 ## Technical Skills
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-</a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-</a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-</a>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ML & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Data & Infrastructure
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## Current Focus
+
+- 🔬 Advanced deep learning architectures — ResUNet, Feature Pyramid Networks
+- ⚡ Agentic AI workflows and LLM evaluation pipelines
+- 🌍 ML applications in remote sensing and environmental monitoring
+- 📐 Differentiable programming with JAX
+
+---
+
+## Certifications
+
+![HackerRank](https://img.shields.io/badge/HackerRank-Advanced_SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Foundation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Coursera](https://img.shields.io/badge/Stanford-ML_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+
+---
+
+<p align="center">
+  <i>Open to Software Engineer, ML Engineer, Full-Stack, and Data Engineer roles — graduating May 2026</i>
 </p>
-
-<p align="left">
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" width="36" height="36" alt="TensorFlow" />
-</a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" width="36" height="36" alt="PyTorch" />
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/jalpatel11/jalpatel11/blob/8f780ab7c1c57cdbc299e56353a08da565ad2306/docker-svgrepo-com.svg" width="36" height="36" alt="Docker" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://github.com/jalpatel11/jalpatel11/blob/96b226688192754997e31bda2c91b2e5e754783b/icons8-postgresql.svg" width="36" height="36" alt="PostgreSQL" />
-</a>
-</p>
-
----
-
-## IDEs
-
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## Tools and Platforms
-
-Neo4j, Git, Jupyter Notebooks, Tableau, ArcGIS Pro, Google Earth Engine, AWS
-
----
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/jalpatel11  
-- GitHub: https://github.com/jalpatel11  
-
-Feel free to reach out for collaboration, research discussions, or engineering opportunities.
