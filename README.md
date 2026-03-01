@@ -50,6 +50,20 @@ My work sits at the intersection of **software engineering**, **applied ML**, an
 
 ## Featured Projects
 
+### 🔧 [Self-Healing SRE Agent](https://github.com/jalpatel11/Self-Healing-SRE-Agent) &nbsp; ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)
+> LangGraph · Groq Llama 3.3-70B · FastAPI · Streamlit · PyGithub · LangSmith · Python AST
+
+Multi-agent AI system for automated incident response. V1 is complete — the core self-healing loop works end to end. Currently evolving into a **plug-and-play platform** any repository or organization can drop in with minimal setup.
+
+- **Multi-agent orchestration** via LangGraph — Investigator and Mechanic agents with explicit handoff and communication tracking
+- **Self-correcting loop** — up to 3 attempts with validation feedback, mimicking how human engineers debug
+- **95% success rate** after self-correction, resolving incidents in **30-60 seconds** at **$0.02-0.06 per fix**
+- **Full observability** via LangSmith decision tracing and GitHub Actions logs
+- **Safe by default** — iteration limits, AST-based code validation, human approval required before merge
+- **Next:** Universal adapter layer for any repo or org — one-command setup, no hardcoded assumptions
+
+---
+
 ### 🧠 [Calmindra — LLM-Powered Mental Health Chatbot](https://github.com/jalpatel11)
 > FastAPI · Redis · React Native · MongoDB · RAG · LLM Evaluation
 
@@ -105,8 +119,9 @@ Candidate retrieval and ranking pipeline using embedding-based collaborative fil
 
 ## Current Focus
 
+- 🔧 **Self-Healing SRE Agent** — production-grade multi-agent AI for automated incident response
 - 🔬 Advanced deep learning architectures — ResUNet, Feature Pyramid Networks
-- ⚡ Agentic AI workflows and LLM evaluation pipelines
+- ⚡ Agentic AI workflows with LangGraph and LLM evaluation pipelines
 - 🌍 ML applications in remote sensing and environmental monitoring
 - 📐 Differentiable programming with JAX
 
