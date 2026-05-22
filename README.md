@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Jal Patel 👋</h1>
 
 <p align="center">
-  <b>Graduate Student @ Arizona State University</b> &nbsp;|&nbsp; <b>Software & ML Engineer</b> &nbsp;|&nbsp; <b>Full-Stack Builder</b>
+  <b>MS Graduate @ Arizona State University</b> &nbsp;|&nbsp; <b>Software & ML Engineer</b> &nbsp;|&nbsp; <b>Full-Stack Builder</b>
 </p>
 
 <p align="center">
@@ -19,13 +19,13 @@
 
 ## About Me
 
-I'm a Master's student in **Data Science, Analytics and Engineering** at **Arizona State University** (GPA: 3.74, graduating May 2026), with hands-on experience building production-grade software systems, ML pipelines, and full-stack applications.
+I recently graduated with my MS in Data Science, Analytics and Engineering from Arizona State University (GPA: 3.80), with hands-on experience building production-grade software systems, ML pipelines, and full-stack applications.
 
 My work sits at the intersection of **software engineering**, **applied ML**, and **data engineering**. I care about building things that actually work in production, not just in notebooks.
 
 - 🏢 Former **Software Development Engineer Intern @ Sentari AI** (New York)
-- 🔭 Currently focused on **transformer architectures**, **RAG systems**, and **agentic workflows**
-- 🛠️ I've shipped real products across backend, frontend, and ML, not just side projects
+- 🔧 Built a self-healing SRE Agent from scratch that resolves CI/CD failures autonomously with a 95% success rate
+- 🛠️ Shipped real products across backend, frontend, and ML across multiple internships and projects
 - 📍 Based in Tempe, AZ — open to relocation
 
 ---
@@ -33,19 +33,21 @@ My work sits at the intersection of **software engineering**, **applied ML**, an
 ## Experience Highlights
 
 ### 🤖 Sentari AI — SDE Intern (Aug 2025 – Jan 2026)
-- Architected transformer-based classification pipelines in **Python & PyTorch** analyzing 100K+ records, improving deep learning model accuracy by **21%**
-- Launched a full-stack **React + FastAPI** threat monitoring dashboard, cutting incident response time by **35%**
-- Engineered embedding models and feature engineering pipelines for high-quality candidate retrieval
+- Architected REST microservices in Python integrating AI pipelines, processing 30+ simultaneous data streams and reducing inference latency by 21%
+- Launched a full-stack **React + FastAPI** monitoring dashboard enabling real-time anomaly detection, cutting incident response time by **35%**
+- Engineered responsive frontend features in TypeScript and React, contributing to **200% month-over-month platform growth**
+- Built an offline processing pipeline that safely queued data and delivered it reliably once connectivity was restored
 - Secured a full-stack login page with **OAuth2** authentication in **TypeScript & React**, improving token verification speed by **27%**
 
 ### 🏗️ Plexusnet Services — SWE Intern (Jan 2024 – May 2024)
-- Built **ETL pipelines** processing 1M+ transactional records using Python and SQL
-- Streamlined distributed deployment pipelines with **Docker & GitHub Actions**, cutting release errors by **30%**
-- Formulated API specifications and architecture diagrams supporting scalability of 5+ core features
+- Built scalable backend systems in Python, Django, and PostgreSQL, accelerating system response times by **18%**
+- Streamlined CI/CD pipelines using Docker and GitHub Actions, cutting manual release errors by **30%**
+- Traced and resolved complex REST API and microservices integration issues using pytest, reducing systemic defects by **25%**
+- Formulated API specifications and architecture diagrams supporting scalability of 5+ core platform features
 
 ### ⚡ Vardhan Insys — SWE Intern (Jun 2023 – Jul 2023)
-- Reduced data retrieval latency by **28%** through aggressive caching strategies
-- Deployed real-time analytics monitoring across **1,000+ concurrent user sessions**
+- Reduced data retrieval latency by **28%** through refactoring core database access layers and applying aggressive caching strategies
+- Deployed a real-time analytics monitoring architecture aggregating telemetry data across **1,000+ concurrent user sessions**
 
 ---
 
@@ -54,21 +56,32 @@ My work sits at the intersection of **software engineering**, **applied ML**, an
 ### 🔧 [Self-Healing SRE Agent](https://github.com/jalpatel11/Self-Healing-SRE-Agent) &nbsp; ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)
 > LangGraph · Groq Llama 3.3-70B · FastAPI · Streamlit · PyGithub · LangSmith · Python AST
 
-Multi-agent AI system for automated incident response. V1 is complete — the core self-healing loop works end to end. Currently evolving into a **plug-and-play platform** any repository or organization can drop in with minimal setup.
+Multi-agent AI system for automated incident response. Built from scratch on nights and weekends because the problem was worth solving. V1 is complete and the core self-healing loop works end to end.
 
 - **Multi-agent orchestration** via LangGraph — Investigator and Mechanic agents with explicit handoff and communication tracking
 - **Self-correcting loop** — up to 3 attempts with validation feedback, mimicking how human engineers debug
 - **95% success rate** after self-correction, resolving incidents in **30-60 seconds** at **$0.02-0.06 per fix**
 - **Full observability** via LangSmith decision tracing and GitHub Actions logs
 - **Safe by default** — iteration limits, AST-based code validation, human approval required before merge
-- **Next:** Universal adapter layer for any repo or org — one-command setup, no hardcoded assumptions
 
 ---
 
 ### 🧠 [Calmindra — LLM-Powered Mental Health Chatbot](https://github.com/jalpatel11)
 > FastAPI · Redis · React Native · MongoDB · RAG · LLM Evaluation
 
-End-to-end RAG-powered chatbot using transformer models, embedding models, and vector databases. Processes thousands of daily queries with **91% classification accuracy** and **sub-500ms latency**, with a built-in LLM evaluation pipeline for continuous quality improvement.
+End-to-end RAG-powered mental health platform using transformer models, embedding models, and vector databases. Processes thousands of daily queries with **91% classification accuracy** and **sub-500ms latency**, with a built-in LLM evaluation pipeline for continuous quality improvement.
+
+---
+
+### ✈️ [IFRPM — Intelligent Fleet Risk and Predictive Maintenance](https://github.com/jalpatel11/IFRPM)
+> PyTorch · XGBoost · Flask · React · MLflow · SHAP · Dask
+
+MS capstone project. End-to-end predictive maintenance system estimating Remaining Useful Life across turbofan engines, batteries, and electrolytic capacitors, combining all three into a unified Go/No-Go fleet readiness decision.
+
+- Engine **Bi-LSTM** achieved RMSE of **12.77 cycles** on the NASA C-MAPSS benchmark
+- Battery **XGBoost** reached **R² of 0.882** on a 50-cycle horizon
+- Capacitor model predicted end-of-life within a **6 to 9 day scheduling window**
+- Deployed through a Flask REST API and React dashboard with per-aircraft RUL trends and interactive what-if predictor
 
 ---
 
@@ -101,6 +114,8 @@ Candidate retrieval and ranking pipeline using embedding-based collaborative fil
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white)
 
 ### Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -118,16 +133,6 @@ Candidate retrieval and ranking pipeline using embedding-based collaborative fil
 
 ---
 
-## Current Focus
-
-- 🔧 **Self-Healing SRE Agent** — production-grade multi-agent AI for automated incident response
-- 🔬 Advanced deep learning architectures — ResUNet, Feature Pyramid Networks
-- ⚡ Agentic AI workflows with LangGraph and LLM evaluation pipelines
-- 🌍 ML applications in remote sensing and environmental monitoring
-- 📐 Differentiable programming with JAX
-
----
-
 ## Certifications
 
 ![HackerRank](https://img.shields.io/badge/HackerRank-Advanced_SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
@@ -137,5 +142,5 @@ Candidate retrieval and ranking pipeline using embedding-based collaborative fil
 ---
 
 <p align="center">
-  <i>Open to Software Engineer, ML Engineer, Full-Stack, and Data Engineer roles — graduating May 2026</i>
+  <i>Open to Software Engineer, ML Engineer, and Data Engineer roles — available immediately</i>
 </p>
