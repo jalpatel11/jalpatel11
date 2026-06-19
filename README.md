@@ -46,8 +46,10 @@ My work sits at the intersection of **software engineering**, **applied ML**, an
 - Formulated API specifications and architecture diagrams supporting scalability of 5+ core platform features
 
 ### ⚡ Vardhan Insys — SWE Intern (Jun 2023 – Jul 2023)
-- Reduced data retrieval latency by **28%** through refactoring core database access layers and applying aggressive caching strategies
-- Deployed a real-time analytics monitoring architecture aggregating telemetry data across **1,000+ concurrent user sessions**
+- Automated email response workflows using PHP scripting, reducing manual response time by 30% and improving
+customer query turnaround.
+- Redesigned and deployed the company website on AWS with SEO optimization strategies using PHP, increasing
+organic search traffic by 20% and improving site load performance.
 
 ---
 
