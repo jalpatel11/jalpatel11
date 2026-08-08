@@ -19,18 +19,23 @@
 
 ## About Me
 
-I recently graduated with my MS in Data Science, Analytics and Engineering from Arizona State University (GPA: 3.80), with hands-on experience building production-grade software systems, ML pipelines, and full-stack applications.
+I recently graduated with my MS in Data Science, Analytics and Engineering from Arizona State University, with hands-on experience building production-grade software systems, ML pipelines, and full-stack applications.
 
 My work sits at the intersection of **software engineering**, **applied ML**, and **data engineering**. I care about building things that actually work in production, not just in notebooks.
 
-- 🏢 Former **Software Development Engineer Intern @ Sentari AI** (New York)
+- 🏢 Currently **Data Scientist @ Integrated Travel** (Remote) — researching a community-driven tourism and entertainment discovery platform
 - 🔧 Built a self-healing SRE Agent from scratch that resolves CI/CD failures autonomously with a 95% success rate
+- 🌍 Open-source contributor to **GRASS GIS** (OSGeo) — merged test-suite contributions to `r.timestamp` and `g.gisenv`
 - 🛠️ Shipped real products across backend, frontend, and ML across multiple internships and projects
-- 📍 Based in Tempe, AZ — open to relocation
+- 📍 Based in Tempe, AZ — open to full-time opportunities starting May 2026
 
 ---
 
 ## Experience Highlights
+
+### 🧳 Integrated Travel — Data Scientist (Jun 2026 – Present)
+- Researching a community-driven tourism and entertainment discovery platform for Central Alberta, focused on local events, attractions, transportation access, and grassroots economic development
+- Supporting early-stage research on data sources, geospatial analysis, and AI-assisted workflows to improve tourism visibility for smaller communities
 
 ### 🤖 Sentari AI — SDE Intern (Aug 2025 – Jan 2026)
 - Architected REST microservices in Python integrating AI pipelines, processing 30+ simultaneous data streams and reducing inference latency by 21%
@@ -53,6 +58,15 @@ organic search traffic by 20% and improving site load performance.
 
 ---
 
+## Open Source Contributions
+
+Contributing test coverage and tooling to **GRASS GIS**, the open-source geospatial engine used by researchers worldwide.
+
+- **[r.timestamp: Add pytest test suite](https://github.com/OSGeo/grass/pull/7802)** — 8 tests covering timestamp set/read/overwrite/remove and error handling
+- **[g.gisenv: Add pytest test suite](https://github.com/OSGeo/grass/pull/7803)** — 11 tests covering variable read/write, case-insensitive lookup, and protected-variable behavior
+
+---
+
 ## Featured Projects
 
 ### 🔧 [Self-Healing SRE Agent](https://github.com/jalpatel11/Self-Healing-SRE-Agent) &nbsp; ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)
@@ -68,36 +82,65 @@ Multi-agent AI system for automated incident response. Built from scratch on nig
 
 ---
 
-### 🧠 [Calmindra — LLM-Powered Mental Health Chatbot](https://github.com/jalpatel11)
-> FastAPI · Redis · React Native · MongoDB · RAG · LLM Evaluation
+### 🧠 [Calmindra — AI Mental Health Companion](https://github.com/jalpatel11/calmindra) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-calmindra.jalpatel.dev-2563EB?style=flat-square)](https://calmindra.jalpatel.dev/)
+> Next.js · FastAPI · Neo4j · Ollama · LoRA · Docker · GCP
 
-End-to-end RAG-powered mental health platform using transformer models, embedding models, and vector databases. Processes thousands of daily queries with **91% classification accuracy** and **sub-500ms latency**, with a built-in LLM evaluation pipeline for continuous quality improvement.
+Full-stack mental health chatbot with a Next.js frontend and a FastAPI backend exposing JWT-authenticated REST APIs, backed by a Neo4j graph database. Containerized with Docker and deployed on GCP for scalable, always-on inference.
+
+- LoRA fine-tuned **Ollama** model reaching **91% accuracy** at **sub-500ms latency**
+- JWT-authenticated REST APIs backed by a **Neo4j** graph database
+- Containerized and deployed on **GCP** cloud infrastructure
 
 ---
 
 ### ✈️ [IFRPM — Intelligent Fleet Risk and Predictive Maintenance](https://github.com/jalpatel11/IFRPM)
-> PyTorch · XGBoost · Flask · React · MLflow · SHAP · Dask
+> Python · FastAPI · TensorFlow (Keras) · Scikit-Learn · Machine Learning
 
-MS capstone project. End-to-end predictive maintenance system estimating Remaining Useful Life across turbofan engines, batteries, and electrolytic capacitors, combining all three into a unified Go/No-Go fleet readiness decision.
-
-- Engine **Bi-LSTM** achieved RMSE of **12.77 cycles** on the NASA C-MAPSS benchmark
-- Battery **XGBoost** reached **R² of 0.882** on a 50-cycle horizon
-- Capacitor model predicted end-of-life within a **6 to 9 day scheduling window**
-- Deployed through a Flask REST API and React dashboard with per-aircraft RUL trends and interactive what-if predictor
+FastAPI backend with a dynamic multi-model ensemble for Remaining Useful Life (RUL) prediction. Automatically ingests and aggregates predictions across Keras (`.h5`) and Scikit-Learn (`.pkl`) models for robust fleet health monitoring, presented through a React dashboard with real-time risk scoring and predictive alerts.
 
 ---
 
-### 🗺️ [Land Use Land Cover Segmentation — Central Phoenix](https://github.com/jalpatel11)
-> PyTorch · U-Net · Sentinel-2 · Feature Engineering · Deep Learning
+### 🗺️ [Phoenix LandCover Segmentation](https://github.com/jalpatel11/phoenix-landcover-segmentation)
+> Python · TensorFlow/Keras · U-Net · Google Earth Engine · Sentinel-2
 
-High-performance deep learning segmentation pipeline on satellite imagery. Applied weighted loss functions and feature engineering to raise minority class recall by **14%**, achieving **95.95% accuracy** and **92.79% mean IoU**.
+Deep learning pipeline for pixel-wise land use classification over Central Phoenix using Sentinel-2 satellite imagery. Custom U-Net across 9 land cover classes, with patch-based training and full-image reconstruction.
+
+- **95.95%** pixel accuracy, **95.50%** weighted F1, **92.79%** mean IoU
 
 ---
 
-### 📚 [Book Recommender — Collaborative Filtering Engine](https://github.com/jalpatel11)
-> Python · Cosine Similarity · Embedding-based Retrieval · Ranking
+### 📚 [Book Recommender](https://github.com/jalpatel11/book-recommender-system)
+> Python · Data Analysis · Cosine Similarity · Recommender Systems
 
-Candidate retrieval and ranking pipeline using embedding-based collaborative filtering. Improved precision by **15%**, reduced runtime complexity by **22%**, and boosted engagement by **12%**.
+User-based collaborative filtering recommender system trained on the Book Crossing dataset. Computes cosine similarity across user rating vectors to identify similar readers and generate personalized book title suggestions.
+
+---
+
+### 🔗 [SafeBite Blockchain — Food Traceability](https://github.com/jalpatel11/SafeBite-Blockchain-Food-Traceability)
+> JavaScript · Blockchain · Smart Contracts · Web3
+
+Blockchain-based food traceability system tracking the journey of food products from farm to table using smart contracts and decentralized ledger technology, ensuring data integrity and transparency end to end.
+
+---
+
+### 📊 [GUI Scheduling Algorithms](https://github.com/jalpatel11/GUI_Scheduling_algorithms) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://jalpatel11-gui-scheduling-algorithms-app-yfyzch.streamlit.app)
+> Python · Streamlit · Algorithms · Operating Systems
+
+Interactive Streamlit app simulating and visualizing CPU scheduling algorithms (FCFS, SJF, Round Robin), letting users input custom process parameters and compare turnaround/waiting time through dynamic Gantt charts.
+
+---
+
+### 🖥️ [Student Performance Review System](https://github.com/jalpatel11/Student_performance_review_system)
+> Python · Tkinter · SQLite · Pandas
+
+Desktop analytics application with a Tkinter GUI for institutions to monitor and analyze student metrics, backed by SQLite for data storage and Pandas for correlation analysis and predictive modeling.
+
+---
+
+## Education
+
+- 🎓 **M.S. Data Science, Analytics and Engineering** — Arizona State University (Aug 2024 – May 2026)
+- 🎓 **B.Tech, Computer Science and Engineering** — Nirma University (Oct 2020 – Aug 2024)
 
 ---
 
@@ -118,19 +161,23 @@ Candidate retrieval and ranking pipeline using embedding-based collaborative fil
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
 ### Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Data & Infrastructure
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
@@ -144,5 +191,5 @@ Candidate retrieval and ranking pipeline using embedding-based collaborative fil
 ---
 
 <p align="center">
-  <i>Open to Software Engineer, ML Engineer, and Data Engineer roles — available immediately</i>
+  <i>Open to full-time Software Engineer, ML Engineer, and Data Engineer roles starting May 2026</i>
 </p>
