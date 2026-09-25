@@ -26,7 +26,7 @@ My work sits at the intersection of **software engineering**, **applied ML**, an
 - 🏢 Junior Software Engineer at **Green Tanner Industrial** (Chandler, AZ), building full-stack features and a RAG pipeline for an internal construction-management platform
 - 🤖 Building **Harper**, a terminal coding agent in Go that works with five LLM providers
 - 🔧 Built a self-healing SRE agent from scratch that fixes CI/CD failures on its own, with a 95% fix success rate
-- 🌍 Open-source contributor to **GRASS GIS** (OSGeo), with three merged test-suite pull requests
+- 🌍 Regular open-source contributor to **GRASS GIS** (OSGeo)
 - 📍 Based in Tempe, AZ
 
 ---
@@ -57,13 +57,9 @@ My work sits at the intersection of **software engineering**, **applied ML**, an
 
 ---
 
-## Open Source Contributions
+## Open Source
 
-Test coverage for **GRASS GIS**, the open-source geospatial engine used by researchers worldwide.
-
-- **[lib/datetime: Add pytest unit tests for datetime_scan and datetime_format](https://github.com/OSGeo/grass/pull/7871)** (107 ctypes unit tests for the C library behind `G_format_timestamp` and `G_scan_timestamp`)
-- **[g.gisenv: Add pytest test suite](https://github.com/OSGeo/grass/pull/7803)** (11 tests covering variable read/write, case-insensitive lookup, and protected-variable behavior)
-- **[r.timestamp: Add pytest test suite](https://github.com/OSGeo/grass/pull/7802)** (8 tests covering timestamp set/read/overwrite/remove and error handling)
+Regular contributor to [GRASS GIS](https://github.com/OSGeo/grass) (OSGeo/grass), a free and open-source geospatial processing engine used for raster and vector analysis, terrain and image processing, and spatial modeling. It is written mostly in C and used by researchers worldwide. I mainly contribute test coverage for its modules and C libraries.
 
 ---
 
