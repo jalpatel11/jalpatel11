@@ -120,27 +120,6 @@ User-based collaborative filtering recommender trained on the Book Crossing data
 
 ---
 
-### 🔗 [SafeBite Blockchain — Food Traceability](https://github.com/jalpatel11/SafeBite-Blockchain-Food-Traceability)
-> JavaScript · Blockchain · Smart Contracts · Web3
-
-Tracks food products from farm to table using smart contracts and a decentralized ledger, so each step in the supply chain is recorded and verifiable.
-
----
-
-### 📊 [GUI Scheduling Algorithms](https://github.com/jalpatel11/GUI_Scheduling_algorithms) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://jalpatel11-gui-scheduling-algorithms-app-yfyzch.streamlit.app)
-> Python · Streamlit · Algorithms · Operating Systems
-
-Streamlit app that simulates CPU scheduling algorithms (FCFS, SJF, Round Robin). You enter custom process parameters and compare turnaround and waiting time through Gantt charts.
-
----
-
-### 🖥️ [Student Performance Review System](https://github.com/jalpatel11/Student_performance_review_system)
-> Python · Tkinter · SQLite · Pandas
-
-Desktop app with a Tkinter GUI for tracking and analyzing student metrics, using SQLite for storage and Pandas for correlation analysis and predictive modeling.
-
----
-
 ## Education
 
 - 🎓 **M.S. Data Science, Analytics and Engineering**, Arizona State University (Aug 2024 – May 2026)
