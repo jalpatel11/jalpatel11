@@ -2,7 +2,7 @@
   <img src="https://github.com/jalpatel11/jalpatel11/blob/c74e1520abcd61861410ccb90833d925ff245c0c/hii.gif" />
 </p>
 
-<h1 align="center">Hi, I'm Jal Patel 👋</h1>
+<h1 align="center">Hi, I'm Jal Patel</h1>
 
 <p align="center">
   <b>Junior Software Engineer @ Green Tanner Industrial</b> &nbsp;|&nbsp; <b>MS Data Science @ Arizona State University</b> &nbsp;|&nbsp; <b>Full-Stack & AI Builder</b>
@@ -23,36 +23,36 @@ I finished my MS in Data Science, Analytics and Engineering at Arizona State Uni
 
 My work sits at the intersection of **software engineering**, **applied ML**, and **data engineering**. I care about building things that actually work in production, not just in notebooks.
 
-- 🏢 Junior Software Engineer at **Green Tanner Industrial** (Chandler, AZ), building full-stack features and a RAG pipeline for an internal construction-management platform
-- 🤖 Building **Harper**, a terminal coding agent in Go that works with five LLM providers
-- 🔧 Built a self-healing SRE agent from scratch that fixes CI/CD failures on its own, with a 95% fix success rate
-- 🌍 Regular open-source contributor to **GRASS GIS** (OSGeo)
-- 📍 Based in Tempe, AZ
+- Junior Software Engineer at **Green Tanner Industrial** (Chandler, AZ), building full-stack features and a RAG pipeline for an internal construction-management platform
+- Building **Harper**, a terminal coding agent in Go that works with five LLM providers
+- Built a self-healing SRE agent from scratch that fixes CI/CD failures on its own, with a 95% fix success rate
+- Regular open-source contributor to **GRASS GIS** (OSGeo)
+- Based in Tempe, AZ
 
 ---
 
 ## Experience Highlights
 
-### 💼 Green Tanner Industrial — Junior Software Engineer (Sep 2026 – Present)
+### Junior Software Engineer, Green Tanner Industrial (Sep 2026 – Present)
 - Build and maintain full-stack features for an internal construction-management platform, connecting field and office workflows through API integrations with tools including **Procore**
 - Develop a **Retrieval-Augmented Generation (RAG)** pipeline for internal software, using retrieval and semantic search in a production AI system
 - Work across **Rust**, WebAssembly, HTMX, Alpine.js, Tailwind CSS, and **PostgreSQL**, in a pair-programming and mentorship model with senior engineers
 
-### 🧳 Integrated Travel — Data Scientist (Jun 2026 – Present)
+### Data Scientist, Integrated Travel (Jun 2026 – Present)
 - Researching a community-driven tourism and entertainment discovery platform for Central Alberta, focused on local events, attractions, transportation access, and grassroots economic development
 - Supporting early-stage research on data sources, geospatial analysis, and AI-assisted workflows to improve tourism visibility for smaller communities
 
-### 🤖 Sentari AI — Software Development Engineer Intern (Aug 2025 – Jan 2026)
+### Software Development Engineer Intern, Sentari AI (Aug 2025 – Jan 2026)
 - Architected **Python** backend microservices and **REST APIs** for an AI journaling app's transcription and emotion-analysis pipeline, reducing inference latency by **21%** across 30+ concurrent data streams during 200% month-over-month growth
 - Shipped a React and Flask dashboard for monitoring Whisper transcription and journaling insight workflows, improving production visibility and cutting incident response time by **35%**
 - Built an offline processing pipeline that eliminated data loss in journaling entries during connectivity failures, and implemented **OAuth2** authentication that improved token verification speed by **27%**
 
-### 🏗️ Plexusnet Services — Software Engineer Intern (Jan 2024 – May 2024)
+### Software Engineer Intern, Plexusnet Services (Jan 2024 – May 2024)
 - Built scalable **Python**, **Django**, and **PostgreSQL** backend services for a documentation platform, tuning SQL indexing and query performance to speed up responses by **18%** across core features
 - Streamlined **CI/CD** pipelines with **Docker**, **Kubernetes**, and GitHub Actions, cutting deployment errors by **30%** across 5+ services
 - Worked with QA on debugging and unit testing to trace and fix **REST API** integration failures, reducing recurring defects by **25%**
 
-### ⚡ Vardhan Insys — Software Engineer Intern (Jun 2023 – Jul 2023)
+### Software Engineer Intern, Vardhan Insys (Jun 2023 – Jul 2023)
 - Automated email response workflows and redesigned the company website in **PHP** with SEO optimization on **AWS**, reducing manual response time by **30%** and increasing organic search traffic by **20%**
 
 ---
@@ -65,7 +65,7 @@ Regular contributor to [GRASS GIS](https://github.com/OSGeo/grass) (OSGeo/grass)
 
 ## Featured Projects
 
-### 🧑‍💻 [Harper — Go Terminal Coding Agent](https://github.com/jalpatel11/Harper) &nbsp; ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)
+### [Harper: Go Terminal Coding Agent](https://github.com/jalpatel11/Harper) &nbsp; ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)
 > Go · Ollama · vLLM · Anthropic
 
 A provider-agnostic terminal coding agent written in Go. It supports five LLM providers, including Anthropic, and runs an orchestrator/worker loop that hands subtasks to workers in parallel through concurrent goroutine fan-out.
@@ -74,7 +74,7 @@ A provider-agnostic terminal coding agent written in Go. It supports five LLM pr
 
 ---
 
-### 🔧 [Self-Healing SRE Agent](https://github.com/jalpatel11/Self-Healing-SRE-Agent) &nbsp; ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)
+### [Self-Healing SRE Agent](https://github.com/jalpatel11/Self-Healing-SRE-Agent) &nbsp; ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)
 > LangGraph · Groq Llama 3.3-70B · FastAPI · Streamlit · PyGithub · LangSmith · Python AST
 
 Multi-agent AI system for automated incident response. Built from scratch on nights and weekends because the problem was worth solving. V1 is complete and the core self-healing loop works end to end.
@@ -87,7 +87,7 @@ Multi-agent AI system for automated incident response. Built from scratch on nig
 
 ---
 
-### 🧠 [Calmindra — AI Mental Health Companion](https://github.com/jalpatel11/calmindra) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-calmindra.jalpatel.dev-2563EB?style=flat-square)](https://calmindra.jalpatel.dev/)
+### [Calmindra: AI Mental Health Companion](https://github.com/jalpatel11/calmindra) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-calmindra.jalpatel.dev-2563EB?style=flat-square)](https://calmindra.jalpatel.dev/)
 > Next.js · FastAPI · Neo4j · Mistral-7B · LoRA · Ollama · Docker · GCP
 
 Full-stack mental health chatbot with a Next.js frontend and a FastAPI backend exposing JWT-authenticated REST APIs, backed by a Neo4j graph database. Containerized with Docker and deployed on GCP.
@@ -97,14 +97,14 @@ Full-stack mental health chatbot with a Next.js frontend and a FastAPI backend e
 
 ---
 
-### ✈️ [IFRPM — Intelligent Fleet Risk and Predictive Maintenance](https://github.com/jalpatel11/IFRPM)
+### [IFRPM: Intelligent Fleet Risk and Predictive Maintenance](https://github.com/jalpatel11/IFRPM)
 > Python · FastAPI · TensorFlow (Keras) · Scikit-Learn · Machine Learning
 
 FastAPI backend with a dynamic multi-model ensemble for Remaining Useful Life (RUL) prediction. It ingests and aggregates predictions across Keras (`.h5`) and Scikit-Learn (`.pkl`) models for fleet health monitoring, and a React dashboard shows real-time risk scores and predictive alerts.
 
 ---
 
-### 🗺️ [Phoenix LandCover Segmentation](https://github.com/jalpatel11/phoenix-landcover-segmentation)
+### [Phoenix LandCover Segmentation](https://github.com/jalpatel11/phoenix-landcover-segmentation)
 > Python · TensorFlow/Keras · U-Net · Google Earth Engine · Sentinel-2
 
 Deep learning pipeline for pixel-wise land use classification over Central Phoenix from Sentinel-2 satellite imagery. A custom U-Net covers 9 land cover classes, with patch-based training and full-image reconstruction.
@@ -113,7 +113,7 @@ Deep learning pipeline for pixel-wise land use classification over Central Phoen
 
 ---
 
-### 📚 [Book Recommender](https://github.com/jalpatel11/book-recommender-system)
+### [Book Recommender](https://github.com/jalpatel11/book-recommender-system)
 > Python · Data Analysis · Cosine Similarity · Recommender Systems
 
 User-based collaborative filtering recommender trained on the Book Crossing dataset. It computes cosine similarity across user rating vectors to find similar readers and suggest books.
@@ -122,8 +122,8 @@ User-based collaborative filtering recommender trained on the Book Crossing data
 
 ## Education
 
-- 🎓 **M.S. Data Science, Analytics and Engineering**, Arizona State University (Aug 2024 – May 2026)
-- 🎓 **B.Tech, Computer Science and Engineering**, Nirma University (Oct 2020 – Aug 2024)
+- **M.S. Data Science, Analytics and Engineering**, Arizona State University (Aug 2024 – May 2026)
+- **B.Tech, Computer Science and Engineering**, Nirma University (Oct 2020 – Aug 2024)
 
 ---
 
